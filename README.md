@@ -10,6 +10,7 @@ The models tested include Logistic Regression, Logistic Regression with N-grams,
 environment.yml: Conda environment file for setting up the virtual environment for BERT-Base-Turkish-Cased.
 
 **MODELS**
+
 Logistic Regression (LR): sentiment_LR.ipynb
 Logistic Regression with N-grams (LR-N): sentiment_LR_ngrams.ipynb
 Support Vector Machine (SVM): sentiment_SVM.ipynb
